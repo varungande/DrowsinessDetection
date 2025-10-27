@@ -24,13 +24,5 @@ This project uses facial landmarks to monitor eye activity through your webcam a
 - OpenCV – video capture and image processing  
 - dlib – facial landmark detection  
 - NumPy – numerical operations  
-- math (hypot) – distance calculation  
+- math (hypot) – distance calculation
 
----
-
-## Installation
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/<your-username>/DrowsinessDetection.git
-cd DrowsinessDetection
